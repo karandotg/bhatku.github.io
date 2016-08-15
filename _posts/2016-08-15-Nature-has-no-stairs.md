@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+published: true
+title: Nature has no stairs
 ---
 ![]({{site.baseurl}}/_posts/nature%20has%20no%20stairs.jpg)![nature has no stairs.jpg]({{site.baseurl}}/_posts/nature has no stairs.jpg)
 
