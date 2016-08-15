@@ -14,17 +14,17 @@ published: true
 
 I’m Madhur and I love jumping into water. 
 
-I work for [Diabetes Trust](http://diabetestrust.in) and [The Optimist Citizen](http://theoptimistcitizen.com) and learn music. This is what I’m exactly doing right now. Sometimes I try to do art.
+I work for [Diabetes Trust](http://diabetestrust.in) and [The Optimist Citizen](http://theoptimistcitizen.com) and learn music. [This](/pages/now.md) is what I’m exactly doing right now. Sometimes I *try* to make [art](/pages/art.md).
 
-I have grown up in too many cities and towns to call one my ‘home town’. After high school, I decided not go to a conventional college. Instead, I have been involved in ideas like [learning without degrees](http://swarajuniversity.org), [an un-schooling lab](http://shikshantar.org/innovations-shiksha/creativity-adda/creativity-adda), [diabetes treatment without medicines](http://diabetestrust.in), [a newspaper that makes you feel positive about world](http://theoptimistcitizen.com), [a reality TV show about sustainability](http://sites.ndtv.com/green-champion/), building mud-houses, self-learning music, [a film about places re-imagining higher education](http://enlivenedlearning.com), [storytelling](http://thekahaniproject.org), and being a Khoji.  
+I have grown up in too many cities and towns to call one my ‘home town’. After high school, I decided not go to a conventional college. Instead, I have been involved in ideas like [learning without degrees](http://swarajuniversity.org), [an un-schooling lab](http://shikshantar.org/innovations-shiksha/creativity-adda/creativity-adda), [diabetes treatment without medicines](http://diabetestrust.in), [a newspaper that makes you feel positive about world](http://theoptimistcitizen.com), [a reality TV show about sustainability](http://sites.ndtv.com/green-champion/), building mud-houses, self-learning music, [a film about places re-imagining higher education](http://enlivenedlearning.com), [storytelling](http://thekahaniproject.org), and [being a Khoji](/_posts/2016-08-15-being-a-khoji.md).  
 
 Life right now is about self-discovery and doing good work. Good work for me is anything that springs from the core belief that a more beautiful world is possible. The adventure is to continue the practice on our beliefs and ideas.
 
-I want to work on these someday. Interested? Get in touch.
+I want to work on [these](/pages/ideashed.md) someday. Interested? Get in touch.
 
-I find these resources helpful.
+I find these [resources](/pages/resources.md) helpful.
 
-Here is my CV.
+[Here](/pages/cv_ma.pdf) is my CV.
  
 
 
