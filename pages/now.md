@@ -1,3 +1,8 @@
+---
+layout: page
+published: true
+---
+
 ## Diabetes Trust
 + Making the website <http://diabetestrust.in>
 + Retreat Design
