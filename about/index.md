@@ -10,7 +10,7 @@ date: {}
 comments: false
 published: true
 ---
-Namaste!
+### Namaste!
 
 I’m Madhur and I love jumping into water. 
 
