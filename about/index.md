@@ -1,11 +1,32 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags:
+  - about
+  - Jekyll
+  - theme
+  - moon
+date: {}
 comments: false
+published: true
 ---
-    
+Namaste!
+
+I’m Madhur and I love jumping into water. 
+
+I work for [Diabetes Trust](http://diabetestrust.in) and [The Optimist Citizen](http://theoptimistcitizen.com) and learn music. This is what I’m exactly doing right now. Sometimes I try to do art.
+
+I have grown up in too many cities and towns to call one my ‘home town’. After high school, I decided not go to a conventional college. Instead, I have been involved in ideas like [learning without degrees](http://swarajuniversity.org), [an un-schooling lab](http://shikshantar.org/innovations-shiksha/creativity-adda/creativity-adda), [diabetes treatment without medicines](http://diabetestrust.in), [a newspaper that makes you feel positive about world](http://theoptimistcitizen.com), [a reality TV show about sustainability](http://sites.ndtv.com/green-champion/), building mud-houses, self-learning music, [a film about places re-imagining higher education](http://enlivenedlearning.com), [storytelling](http://thekahaniproject.org), and being a Khoji.  
+
+Life right now is about self-discovery and doing good work. Good work for me is anything that springs from the core belief that a more beautiful world is possible. The adventure is to continue the practice on our beliefs and ideas.
+
+I want to work on these someday. Interested? Get in touch.
+
+I find these resources helpful.
+
+Here is my CV.
+ 
 
 
-Madhur has grown up in too many cities and towns to call one his home. He is still growing up. 'Walking out' of being an academic topper baccha, going to college, he even walked out of a tv reality show. Swaraj U threw him into an adventure to reclaim his learning.  His adventure with Swaraj U, not only changed him but also his family. His dad too left his job, mom turned from homemaker to entrepreneur and now they are making mud houses and experimenting with living close to nature. Jumping out of his creativity fears, his learning journey is into facilitation in education, storytelling and video production. Right now, together with his family he is working on a healing space near Bhopal. (Sehatvan)
+
+
