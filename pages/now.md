@@ -1,6 +1,9 @@
 ---
 layout: page
-published: true
+title: Now
+tags: [about, Jekyll, theme, moon]
+date: 2016-07-15
+comments: false
 ---
 
 ## Diabetes Trust
