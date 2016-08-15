@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Nature has no stairs
 ---
-![]({{site.baseurl}}/_posts/nature%20has%20no%20stairs.jpg)![nature has no stairs.jpg]({{site.baseurl}}/_posts/nature has no stairs.jpg)
+![]({{site.baseurl}}/bhatku.github.io/_posts/nature has no stairs.jpg)
 
 
 So you learnt to walk. The next thing you will be taught is to climb stairs. That’s the practice. Because then on, you’ll spend your life climbing stairs and ladders. Grades ladder, career ladder, political ladder, social ladder, religious ladder, spiritual ladder and all other kinds of ladders that man can invent. Maybe you played snakes and ladders. That is how life is.
