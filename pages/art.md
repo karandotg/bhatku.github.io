@@ -11,18 +11,8 @@ published: true
 {% include youtubePlayer.html id="r364HO0qDpU" %}
 
 
-<figure class="half">
-	{% include youtubePlayer.html id="r364HO0qDpU" %}
-	{% include youtubePlayer.html id="RWFja_Y6XVg" %}
-	<figcaption>Two videos</figcaption>
-</figure>
 
-{% include youtubePlayer.html id="r364HO0qDpU" %} {% include youtubePlayer.html id="RWFja_Y6XVg" %}
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-{% include youtubePlayer.html id="r364HO0qDpU" %}  |  {% include youtubePlayer.html id="RWFja_Y6XVg" %}
-
-<iframe width="420" height="100%" src="https://www.youtube.com/embed/7Sszb6xo-MU" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/QILiHiTD3uc' frameborder='0' allowfullscreen></iframe></div>
 
 
