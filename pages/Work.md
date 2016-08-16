@@ -6,19 +6,19 @@ title: Work
 ## Present
 
 ### Diabetes Trust
-   *workshop facilitation, marketing, web
+   _workshop facilitation, marketing, web_
    
 ### The Optimist Citizen
-   *content development, interviewing, collaborations
+   _content development, interviewing, collaborations_
    
 ### Sehatvan
-   *occasional labourer, cattle chase-away-er
+   _occasional labourer, cattle chase-away-er_
 
 
 ## Future
 Future is unknown to me. Ideally, the present work will develop and grow.
-I want to work on some ideas but don't have the right skills, co-creators, resources or time.
-All of them are parked in the [ideashed](/pages/ideashed/). If you see something that calls you too, lets talk.
+
+However there is an [ideashed](/pages/ideashed/). 
 
 
 ## Past
