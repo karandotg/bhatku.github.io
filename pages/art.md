@@ -8,30 +8,21 @@ published: true
 
 ## Video Art
 
-Youtube Link: <http://youtube.com/theideator>
+All the videos that I have worked on are[here](/pages/video/).
+Alternatively, Youtube Link: <http://youtube.com/theideator>
 
+## Photography
 
-{% include youtubePlayer.html id="r364HO0qDpU" %}
+*will put shortly
 
+## Storytelling
 
+*will put shortly
 
-{% include youtubePlayer.html id="oGljVKwRfHg" %}
+## Short Stories
 
+*will put shortly
 
+## Water colour
 
-{% include youtubePlayer.html id="uvAC236t2nI" %}
-
-
-
-{% include youtubePlayer.html id="RWFja_Y6XVg" %}
-
-
-
-{% include youtubePlayer.html id="J1YeVvaMAmg" %}
-
-
-
-{% include youtubePlayer.html id="QEGj65Uod2s" %}
-
-
-
+*will put shortly
