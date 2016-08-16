@@ -23,6 +23,6 @@ Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 {% include youtubePlayer.html id="r364HO0qDpU" %}  |  {% include youtubePlayer.html id="RWFja_Y6XVg" %}
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/7Sszb6xo-MU" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="100%" src="https://www.youtube.com/embed/7Sszb6xo-MU" frameborder="0" allowfullscreen></iframe>
 
 
