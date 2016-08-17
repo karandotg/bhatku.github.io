@@ -63,5 +63,5 @@ Egghead stares at the seed of cherry; the flesh around sucked off.
 Bhatku looks away. It has started to drizzle.
 
 _An incident Bhatku narrated to me, about food for body and soul. Or for tongue?_
-
+_August, 2014_
 
