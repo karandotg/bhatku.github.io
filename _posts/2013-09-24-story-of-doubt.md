@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Story of doubt
 published: false
 ---
 Tubdo hated to commute in the metro. More than that, he hated announcements about the next station which the train was about to reach. After being useful on his first day in delhi, they became increasingly annoying. To avoid this ‘noise’ and other sounds of metro, his hands would involuntarily put the headphone on and his favorite hard-rock tracks will flow in. Sometime people would stand as close as a finger away, completely lost in their own worlds. At those times, metro would feel to him among the loneliest places on earth and he would quickly turn to his phone to check any updates. He loved those rare times when he would be able to catch a seat and look out the window. The fleeting view of buildings, trees and all that there is in a metro, the artificially conditioned air from the AC just at the temperature to keep calm, the hard-rock music from his phone and stream of thoughts from his own mind would create an enchanting microcosm away from the reality, which existed if he was on street without his earphones.  
