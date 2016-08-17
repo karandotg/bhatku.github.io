@@ -28,15 +28,12 @@ Alternatively, Youtube Link: <http://youtube.com/theideator>
 <figure class="half">
 	<img src="/assets/img/wc_boxworld.jpg">
 	<img src="/assets/img/wc_stairs.jpg">
-	<img src="/assets/img/wc_fly.jpg">
+	</figure>
 	
-</figure>
 <figure class="third">
 	<img src="/assets/img/wc_horse.jpg">
 	<img src="/assets/img/wc_flowermachine.jpg"
 	<img src="/assets/img/wc_fly.jpg">
 	</figure>
 	
-<img src="/assets/img/wc_boxworld.jpg" width= "400px" margin-right="10px"> 	<img src="/assets/img/wc_stairs.jpg" width= "400px" margin-right="10px">
-<img src="/assets/img/wc_fly.jpg">	
-	
+
