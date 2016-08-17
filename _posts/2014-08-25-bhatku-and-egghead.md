@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 published: true
 title: Egghead
