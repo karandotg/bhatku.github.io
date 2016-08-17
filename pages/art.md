@@ -8,7 +8,7 @@ published: true
 
 ## Video Art
 
-All the videos that I have worked on are[here](/pages/video/).
+All the videos that I have worked on are [here](/pages/video/).
 Alternatively, Youtube Link: <http://youtube.com/theideator>
 
 ## Photography
@@ -25,4 +25,17 @@ Alternatively, Youtube Link: <http://youtube.com/theideator>
 
 ## Water colour
 
-*will put shortly
+<figure class="third">
+	<img src="/assets/img/wc_boxworld.jpg">
+	<img src="/assets/img/wc_stairs.jpg">
+	<img src="/assets/img/wc_fly.jpg">
+	
+</figure>
+<figure class="half">
+	<img src="/assets/img/wc_horse.jpg">
+	<img src="/assets/img/wc_flowermachine.jpg">
+	</figure>
+	
+<img src="/assets/img/wc_boxworld.jpg" width= "400px" margin-right="10px"> 	<img src="/assets/img/wc_stairs.jpg" width= "400px" margin-right="10px">
+<img src="/assets/img/wc_fly.jpg">	
+	
