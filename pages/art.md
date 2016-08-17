@@ -32,7 +32,7 @@ Alternatively, Youtube Link: <http://youtube.com/theideator>
 	
 <figure class="third">
 	<img src="/assets/img/wc_horse.jpg">
-	<img src="/assets/img/wc_flowermachine.jpg"
+	<img src="/assets/img/wc_flowermachine.jpg">
 	<img src="/assets/img/wc_fly.jpg">
 	</figure>
 	
