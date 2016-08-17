@@ -10,15 +10,29 @@ The girl in yellow scarf looked at him, only to find out that his head was rolle
 Tubdo felt the train was much faster now. If he would looked away and looked back the view would completely change. But he didn’t feel any disconnect. It related perfectly to whatever he was thinking. This was strange. He met the girl’s eyes and she smiled. This was even stranger. He glanced over her skin with liking. Once he had gone to Kanyakumari to watch the thiruvalluvar’s statue in midst of the sea and there he had met a group of sri-lankan girls whom he found very attractive. Maybe this girl was sri-lankan. He was surprised to find sea outside the window and Thiruvalluvar’s statue fleeting past. He was puzzled. 
 
 He looked at girl and asked, “Where is this train going to?”
+
 “Near Future”
+
 “What?”
+
 “The capital!”
+
 “But capital is delhi!” He never thought the girls  to be so dumb.
+
 She wasn’t surprised on his ignorance, she saw many like them, every few day.
+
 “You are not in your world anymore. This is FutureNation.” 
+
 “But how is that possible? How did I come here?”
+
 “Only you know that. You must have got disconnected with your world.”
+
 “What do you mean disconnected?”
+
 “Well sometimes you stop noticing what’s happening around and start forming your own world and sometimes you slip into here.”
+
 “But why am I on the train then and where am I going?”
+
 “Only you know that, the train will take you wherever you want to go to.”
+
+_September, 2013_
