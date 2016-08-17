@@ -5,7 +5,7 @@ description:        Being a khoji
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/ME2.png'
-background:         'assets/img/stardust.png'
+background:         'assets/img/brickwall_@2X.png' 
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://bhatku.github.io
