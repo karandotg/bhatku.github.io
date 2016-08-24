@@ -5,13 +5,15 @@ date: 2016-07-15
 comments: false
 ---
 
-## Diabetes Trust
+*This is what I'm working on for next few months.*
+
+### Diabetes Trust
 + Making the website <http://diabetestrust.in>
 + Retreat Design
 
-## The Optimist Citizen
+### The Optimist Citizen
 + Content Development
 + New collaborations
 
-## Music
+### Music
 + learning to play clear notes
