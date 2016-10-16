@@ -3,6 +3,9 @@ layout: post
 title: Story of doubt
 published: true
 ---
+24 September 2013
+
+
 Tubdo hated to commute in the metro. More than that, he hated announcements about the next station which the train was about to reach. After being useful on his first day in delhi, they became increasingly annoying. To avoid this ‘noise’ and other sounds of metro, his hands would involuntarily put the headphone on and his favorite hard-rock tracks will flow in. Sometime people would stand as close as a finger away, completely lost in their own worlds. At those times, metro would feel to him among the loneliest places on earth and he would quickly turn to his phone to check any updates. He loved those rare times when he would be able to catch a seat and look out the window. The fleeting view of buildings, trees and all that there is in a metro, the artificially conditioned air from the AC just at the temperature to keep calm, the hard-rock music from his phone and stream of thoughts from his own mind would create an enchanting microcosm away from the reality, which existed if he was on street without his earphones.  
 That was a lucky day, he found a seat and there was a girl in yellow scarf sitting right in front of him. She had radiant dark skin and she looked very pretty. Tubdo’s eyes would turn to her every few seconds and even linger sometimes in hope for an eye contact. But the girl kept looking away. Hopelessly tubdo turned to look outside. They were flying over log-jammed rivers of cars and buses. He started thinking how frustrating it would be to be stuck in a car waiting endlessly. Still he had to get a car soon, all his friends had got one. The EMI would eat up a part of his salary but then he will not be out of the group. And a date was only perfect if he would drive around the girl in his car.
 
