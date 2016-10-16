@@ -1,6 +1,5 @@
 ---
 layout: post
-title: The Kutch Touch
 published: true
 ---
 
