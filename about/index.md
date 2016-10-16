@@ -19,4 +19,4 @@ I want to work on [these](/pages/ideashed/) someday. Interested? Get in touch.
 
 I find these [resources](/pages/resources/) helpful.
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16YqCNhRjWNJUiffOOJWIwIcT6zvJ8DHfo9OZ6W5g37w&font=Default&lang=en&start_at_end=true&timenav_position=top&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16YqCNhRjWNJUiffOOJWIwIcT6zvJ8DHfo9OZ6W5g37w&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
