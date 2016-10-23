@@ -4,8 +4,7 @@ published: true
 ---
 
 # The Kutch Touch
-
-{% include youtubePlayer.html id="JDqlUvU7gd0" %}
+[![replaceWithWhateverVideoIsAbout](http://img.youtube.com/vi/JDqlUvU7gd0/0.jpg)](http://www.youtube.com/watch?v=JDqlUvU7gd0)
 
 ## Why This Journey
 यही सोच रहती बचपन से कि Music तो अपने से नहीं होगा। फिर भी कभी एक बांसुरी खरीदी और अपने bag में रखना शुरू कर दी। 
