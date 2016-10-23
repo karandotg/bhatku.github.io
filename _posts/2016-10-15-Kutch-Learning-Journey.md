@@ -2,7 +2,6 @@
 layout: post
 published: true
 ---
-
 # The Kutch Touch
 
 {% include youtubePlayer.html id="JDqlUvU7gd0" %}
