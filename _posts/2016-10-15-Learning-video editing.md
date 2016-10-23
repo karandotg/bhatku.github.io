@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Learning Video Editing
 published: true
 ---
 ## Learning Video Editing
