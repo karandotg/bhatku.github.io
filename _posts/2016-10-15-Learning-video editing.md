@@ -3,7 +3,7 @@ layout: post
 title: Learning Video Editing
 published: true
 ---
-## Learning Video Editing
+## Learning Video Editing ##
 My Notes
 
 •	Figure out the audio of the track first. Infact if possible lay down the music, dialogues etc first. And then start cutting video to it.
